@@ -10,4 +10,4 @@ Weather app that displays weather status of requested location.
 
 ### Live demo
 
-[Live Weather App](https://weather-app-kappa-six-97.vercel.app/)
+[Live Weather App](https://weather-app-a.vercel.app/)
